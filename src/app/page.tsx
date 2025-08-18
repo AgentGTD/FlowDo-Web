@@ -12,7 +12,7 @@ export default function Home() {
           <p className="text-xl md:text-2xl mb-8">
             The intuitive personal productivity app built on GTD principles.
           </p>
-          <Link href="/signup" className="bg-white text-blue-600 hover:bg-gray-100 text-lg font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">
+          <Link href="/" className="bg-white text-blue-600 hover:bg-gray-100 text-lg font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">
             Get Started Free
           </Link>
         </div>
@@ -40,7 +40,7 @@ export default function Home() {
             {/* Feature Card 3: Next Actions */}
             <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition duration-300">
               <div className="text-5xl mb-4 text-yellow-500">▶️</div> {/* Next Actions Icon */}
-              <h3 className="text-2xl font-semibold mb-2">Focus on What's Next</h3>
+              <h3 className="text-2xl font-semibold mb-2">Focus on What&apos;s Next</h3>
               <p className="text-gray-600">See your actionable tasks clearly, categorized by context.</p>
             </div>
 
@@ -65,7 +65,7 @@ export default function Home() {
       <section className="bg-gray-800 text-white py-16 px-4 text-center">
         <div className="container mx-auto">
           <h2 className="text-4xl font-bold mb-8">Ready to Transform Your Productivity?</h2>
-          <Link href="/signup" className="bg-blue-500 hover:bg-blue-600 text-white text-lg font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">
+          <Link href="/" className="bg-blue-500 hover:bg-blue-600 text-white text-lg font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">
             Sign Up Now
           </Link>
         </div>
