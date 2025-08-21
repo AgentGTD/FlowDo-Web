@@ -7,7 +7,7 @@ export default function PrivacyPolicy() {
       
       <div className="mb-6 p-4 bg-blue-50 rounded-lg">
         <p className="text-gray-700">
-          <strong>Summary:</strong> This Privacy Policy explains how FlowDo ("we," "us," or "our") collects, uses, and protects your information when you use our personal productivity mobile application and related services. By using our services, you consent to the practices described in this policy.
+          <strong>Summary:</strong> This Privacy Policy explains how FlowDo (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) collects, uses, and protects your information when you use our personal productivity mobile application and related services. By using our services, you consent to the practices described in this policy.
         </p>
       </div>
 
@@ -163,7 +163,7 @@ export default function PrivacyPolicy() {
         <li>Binding corporate rules for intra-group transfers</li>
       </ul>
 
-      <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-800">7. Children's Privacy</h2>
+      <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-800">7. Children&apos;s Privacy</h2>
       
       <p className="mb-4 text-gray-700">Our services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us immediately.</p>
 
@@ -187,7 +187,7 @@ export default function PrivacyPolicy() {
         <p className="mb-2 text-gray-700"><strong>Data Protection Officer:</strong></p>
         <p className="mb-2 text-gray-700">Email: <strong>privacy@flowdo.com</strong></p>
         <p className="mb-2 text-gray-700">General Support: <strong>support@flowdo.com</strong></p>
-        <p className="mb-2 text-gray-700">Address: --, India</p>
+        <p className="mb-2 text-gray-700">Address: [Your Business Address], India</p>
         <p className="text-gray-700">Response Time: We aim to respond to privacy-related inquiries within 30 days</p>
       </div>
 
@@ -197,7 +197,7 @@ export default function PrivacyPolicy() {
 
       <div className="mt-8 p-4 bg-yellow-50 rounded-lg">
         <p className="text-gray-700 text-sm">
-          <strong>Note:</strong> This Privacy Policy is designed to comply with applicable data protection laws, including India's Digital Personal Data Protection Act (DPDP Act) and international standards. For specific legal advice, please consult with a qualified attorney.
+          <strong>Note:</strong> This Privacy Policy is designed to comply with applicable data protection laws, including India&apos;s Digital Personal Data Protection Act (DPDP Act) and international standards. For specific legal advice, please consult with a qualified attorney.
         </p>
       </div>
     </div>

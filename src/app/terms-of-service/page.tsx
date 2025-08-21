@@ -7,13 +7,13 @@ export default function TermsOfService() {
       
       <div className="mb-6 p-4 bg-blue-50 rounded-lg">
         <p className="text-gray-700">
-          <strong>Summary:</strong> These Terms of Service govern your use of FlowDo's personal productivity mobile application and related services. By using our services, you agree to be bound by these terms. Please read them carefully before proceeding.
+          <strong>Summary:</strong> These Terms of Service govern your use of FlowDo&apos;s personal productivity mobile application and related services. By using our services, you agree to be bound by these terms. Please read them carefully before proceeding.
         </p>
       </div>
 
       <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-800">1. Acceptance of Terms</h2>
       
-      <p className="mb-4 text-gray-700">By accessing or using FlowDo's mobile application ("App") and related services ("Services"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not use our Services.</p>
+      <p className="mb-4 text-gray-700">By accessing or using FlowDo&apos;s mobile application (&ldquo;App&rdquo;) and related services (&ldquo;Services&rdquo;), you agree to be bound by these Terms of Service (&ldquo;Terms&rdquo;). If you do not agree to these Terms, you must not use our Services.</p>
       
       <p className="mb-4 text-gray-700">We reserve the right to modify these Terms at any time. We will notify you of any material changes by posting the updated Terms in the App or sending you an email. Your continued use of the Services after such changes constitutes acceptance of the updated Terms.</p>
 
@@ -71,7 +71,7 @@ export default function TermsOfService() {
       <ul className="list-disc pl-6 mb-4 text-gray-700">
         <li>Subscription fees are billed in advance on a monthly or annual basis</li>
         <li>All fees are non-refundable except as required by law or as specified in our refund policy</li>
-        <li>Prices may change with 30 days' notice to existing subscribers</li>
+        <li>Prices may change with 30 days&apos; notice to existing subscribers</li>
         <li>Payment is processed through secure third-party payment processors</li>
         <li>Failed payments may result in service suspension</li>
       </ul>
@@ -109,7 +109,7 @@ export default function TermsOfService() {
       <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-800">6. User Content and Data</h2>
       
       <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">6.1 Ownership of Content</h3>
-      <p className="mb-4 text-gray-700">You retain ownership of all content you create, upload, or input into our Services ("User Content"). This includes tasks, projects, notes, goals, and any other information you provide.</p>
+      <p className="mb-4 text-gray-700">You retain ownership of all content you create, upload, or input into our Services (&ldquo;User Content&rdquo;). This includes tasks, projects, notes, goals, and any other information you provide.</p>
 
       <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">6.2 License to FlowDo</h3>
       <p className="mb-4 text-gray-700">By using our Services, you grant FlowDo a worldwide, non-exclusive, royalty-free license to:</p>
@@ -133,7 +133,7 @@ export default function TermsOfService() {
       <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">6.4 AI-Generated Content</h3>
       <p className="mb-4 text-gray-700">Our Services include AI-powered features that may generate content based on your inputs. You acknowledge that:</p>
       <ul className="list-disc pl-6 mb-4 text-gray-700">
-        <li>AI-generated content is provided "as-is" without warranties</li>
+        <li>AI-generated content is provided &ldquo;as-is&rdquo; without warranties</li>
         <li>You should review and validate AI-generated suggestions</li>
         <li>We are not responsible for decisions made based on AI recommendations</li>
         <li>AI features may be limited or unavailable in certain regions</li>
@@ -141,7 +141,7 @@ export default function TermsOfService() {
 
       <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-800">7. Intellectual Property Rights</h2>
       
-      <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">7.1 FlowDo's Intellectual Property</h3>
+      <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">7.1 FlowDo&apos;s Intellectual Property</h3>
       <p className="mb-4 text-gray-700">The Services, including the App, website, and all related content, are owned by FlowDo and protected by intellectual property laws. This includes:</p>
       <ul className="list-disc pl-6 mb-4 text-gray-700">
         <li>Software code and algorithms</li>
@@ -158,12 +158,12 @@ export default function TermsOfService() {
       
       <p className="mb-4 text-gray-700">Your privacy is important to us. Our collection, use, and protection of your personal information is governed by our Privacy Policy, which is incorporated into these Terms by reference.</p>
       
-      <p className="mb-4 text-gray-700">We are committed to protecting your data and comply with applicable data protection laws, including India's Digital Personal Data Protection Act (DPDP Act) and other relevant regulations.</p>
+      <p className="mb-4 text-gray-700">We are committed to protecting your data and comply with applicable data protection laws, including India&apos;s Digital Personal Data Protection Act (DPDP Act) and other relevant regulations.</p>
 
       <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-800">9. Disclaimers and Limitations of Liability</h2>
       
       <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">9.1 Service Disclaimers</h3>
-      <p className="mb-4 text-gray-700">THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:</p>
+      <p className="mb-4 text-gray-700">THE SERVICES ARE PROVIDED &ldquo;AS IS&rdquo; AND &ldquo;AS AVAILABLE&rdquo; WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:</p>
       <ul className="list-disc pl-6 mb-4 text-gray-700">
         <li>Warranties of merchantability and fitness for a particular purpose</li>
         <li>Warranties that the Services will be uninterrupted or error-free</li>
@@ -187,7 +187,7 @@ export default function TermsOfService() {
 
       <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-800">10. Indemnification</h2>
       
-      <p className="mb-4 text-gray-700">You agree to indemnify, defend, and hold harmless FlowDo and its officers, directors, employees, agents, and affiliates from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from:</p>
+      <p className="mb-4 text-gray-700">You agree to indemnify, defend, and hold harmless FlowDo and its officers, directors, employees, agents, and affiliates from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys&apos; fees) arising from:</p>
       <ul className="list-disc pl-6 mb-4 text-gray-700">
         <li>Your use of the Services</li>
         <li>Your violation of these Terms</li>
@@ -267,7 +267,7 @@ export default function TermsOfService() {
       <p className="mb-4 text-gray-700">You may not assign or transfer your rights or obligations under these Terms without our written consent. We may assign these Terms in connection with a merger, acquisition, or sale of assets.</p>
 
       <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">13.4 Force Majeure</h3>
-      <p className="mb-4 text-gray-700">We are not liable for any delay or failure to perform due to circumstances beyond our reasonable control, including but not limited to natural disasters, government actions, or technical failures.</p>
+      <p className="mb-4 text-gray-700">We are not liable for any delay or failure to perform due to circumstances beyond our reasonable control, including but not limited to cloud outages, pandemics.</p>
 
       <h3 className="text-2xl font-medium mt-6 mb-3 text-gray-800">13.5 Entire Agreement</h3>
       <p className="mb-4 text-gray-700">These Terms, together with our Privacy Policy and any other policies referenced herein, constitute the entire agreement between you and FlowDo regarding the Services.</p>
@@ -278,7 +278,7 @@ export default function TermsOfService() {
         <p className="mb-2 text-gray-700"><strong>Legal Department:</strong></p>
         <p className="mb-2 text-gray-700">Email: <strong>legal@flowdo.com</strong></p>
         <p className="mb-2 text-gray-700">General Support: <strong>support@flowdo.com</strong></p>
-        <p className="mb-2 text-gray-700">Address: --, India</p>
+        <p className="mb-2 text-gray-700">Address: [Your Business Address], India</p>
         <p className="text-gray-700">Response Time: We aim to respond to legal inquiries within 5 business days</p>
       </div>
 

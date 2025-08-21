@@ -6,7 +6,7 @@ export default function DeleteAccount() {
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Delete Your FlowDo Account</h1>
           <p className="text-lg text-gray-600">
-            We're sorry to see you go. This page explains how to delete your account and what happens to your data.
+            We&apos;re sorry to see you go. This page explains how to delete your account and what happens to your data.
           </p>
         </div>
 
@@ -74,7 +74,7 @@ export default function DeleteAccount() {
                       <strong>Email:</strong> <a href="mailto:support@flowdo.com" className="text-blue-600 hover:text-blue-800">support@flowdo.com</a>
                     </p>
                     <p className="text-gray-700 mb-2">
-                      <strong>Subject Line:</strong> "Account Deletion Request - [Your Email]"
+                      <strong>Subject Line:</strong> &ldquo;Account Deletion Request - [Your Email]&rdquo;
                     </p>
                     <p className="text-gray-700">
                       <strong>Include in your email:</strong>
@@ -207,7 +207,7 @@ export default function DeleteAccount() {
                 <svg className="h-5 w-5 text-yellow-400 mr-2 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" />
                 </svg>
-                <span>You'll lose access to all your organized tasks and projects</span>
+                <span>You&apos;ll lose access to all your organized tasks and projects</span>
               </li>
               <li className="flex items-start">
                 <svg className="h-5 w-5 text-yellow-400 mr-2 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
